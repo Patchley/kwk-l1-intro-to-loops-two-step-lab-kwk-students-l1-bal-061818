@@ -55,5 +55,6 @@ def break_dance
     sleep(0.5)
     puts "Right foot steps right"
     sleep(0.5)
+    if steps = 6
   end
 end
