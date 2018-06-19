@@ -37,7 +37,6 @@ def how_many_steps?
   puts "steps"
   sleep(0.5)
   end
-
 end
 
 def break_dance
